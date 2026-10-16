@@ -13,7 +13,7 @@
 
 > *"Data tells a story — a good dashboard lets you click your way through it."*
 Video explanation link
-https://drive.google.com/file/d/1Why3AuqTbWZhKsUoUQGS9u-6WzlkrRhs/view?usp=sharing
+https://drive.google.com/drive/u/0/folders/1LZQ7_0o9PIJHPt30-5SnxMa57pRJWasN
 </div>
 
 ---
